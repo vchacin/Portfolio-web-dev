@@ -6073,10 +6073,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-image: url(/assets/img/scream.jpg) !important;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position-y: top;
+  background-color: #0e6251 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
